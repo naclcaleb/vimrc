@@ -3,11 +3,10 @@ call plug#begin('~/.vim/vim-plugged')
 Plug 'joshdick/onedark.vim'
 Plug 'rakr/vim-one'
 Plug 'vim-airline/vim-airline'
-" Plug 'neoclide/coc.nvim', {'do': { -> coc#util#install()}}
 Plug 'Xuyuanp/nerdtree-git-plugin'
-Plug 'Valloric/YouCompleteMe'
 Plug 'tpope/vim-endwise'
 Plug 'jiangmiao/auto-pairs'
+Plug 'ervandew/supertab'
 
 call plug#end()
 syntax on 
