@@ -7,6 +7,7 @@ Plug 'vim-airline/vim-airline'
 Plug 'Xuyuanp/nerdtree-git-plugin'
 Plug 'Valloric/YouCompleteMe'
 Plug 'tpope/vim-endwise'
+Plug 'jiangmiao/auto-pairs'
 
 call plug#end()
 syntax on 
